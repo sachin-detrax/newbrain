@@ -1,0 +1,16 @@
+# Rust build output
+target/
+
+# Generated experiment outputs
+artifacts/
+
+# Local knowledge-graph output (regenerate with `graphify update .`)
+graphify-out/
+
+# Agent tooling state
+.opencode/
+.omo/
+.superpowers/
+# Windows artifact
+*NUL*
+NUL
